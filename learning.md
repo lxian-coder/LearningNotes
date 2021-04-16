@@ -278,6 +278,9 @@ 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
 * git rm --cached ./file.txt
   
 * git config --global --list
+
+**Change remote origin**
+* git remote set-url origin new.git.url/here
   **branch**
 * git checkout -b new-feature 建立并且进入新branch
 * git branch -d new-feature  删除branch
